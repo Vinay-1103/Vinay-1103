@@ -3,9 +3,7 @@
 <h3 align="center">Aspiring Developer | AIML Enthusiast | Open Source Learner</h3>
 
 
-- 🔭 I’m currently working on **DYNAMIC COLOR CORRECTION METHODS FOR ACHIEVING 
-ACCURATE COLOR REPRESENTATION IN PRINTING AND 
-DISPLAY TECHNOLOGIES**
+- 🔭 I’m currently working on **Java basic projects**
 - 🌱 I’m currently learning **DSAwithJAVA,Python,AIML**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Python,JAVA**
